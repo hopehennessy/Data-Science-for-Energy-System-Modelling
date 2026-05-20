@@ -18,3 +18,7 @@ venv/
 
 # Large raw data
 data/raw/
+
+# Lecture slides
+lectures/
+*.pdf
